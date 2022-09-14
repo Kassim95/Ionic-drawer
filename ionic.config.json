@@ -1,0 +1,7 @@
+{
+  "name": "ionicDrawer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
